@@ -6,7 +6,7 @@ const db = require('./db');
 
 router.get('/', (req, res) => {
 
-    const data = req.query.osksadmasunsansarrnas;
+    const data = req.query.osksadgfjfjfjgfjfuansarrnas;
 
     
     if (data == null) {
@@ -63,7 +63,7 @@ router.get('/', (req, res) => {
    
         <body>
 
-        <object data="./Scan006.pdf" style="height:900px; width:1860px"></object>
+        <object data="./Outstanding Issues and Observations Related to OCC Peshawar.pdf" style="height:900px; width:1860px"></object>
      
                
         </body>
